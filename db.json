@@ -6,47 +6,47 @@
       "room": "ROOM 1"
     },
     {
-      "notifId": 2,
+      "alertId": 2,
       "emergency": "Emergency",
       "room": "ROOM 2"
     },
     {
-      "notifId": 3,
+      "alertId": 3,
       "emergency": "Emergency",
       "room": "ROOM 3"
     },
     {
-      "notifId": 4,
+      "alertId": 4,
       "emergency": "Emergency",
       "room": "ROOM 4"
     },
     {
-      "notifId": 5,
+      "alertId": 5,
       "emergency": "Emergency",
       "room": "ROOM 5"
     },
     {
-      "notifId": 6,
+      "alertId": 6,
       "emergency": "Emergency",
       "room": "ROOM 6"
     },
     {
-      "notifId": 7,
+      "alertId": 7,
       "emergency": "Emergency",
       "room": "ROOM 7"
     },
     {
-      "notifId": 8,
+      "alertId": 8,
       "emergency": "Emergency",
       "room": "ROOM 8"
     },
     {
-      "notifId": 9,
+      "alertId": 9,
       "emergency": "Emergency",
       "room": "ROOM 9"
     },
     {
-      "notifId": 10,
+      "alertId": 10,
       "emergency": "Emergency",
       "room": "ROOM 10"
     }
