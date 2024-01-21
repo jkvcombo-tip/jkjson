@@ -2,51 +2,61 @@
   "notifications" : [
     {
       "alertId": 1,
+      "alertname": "Alert",
       "emergency": "Emergency",
       "room": "ROOM 1"
     },
     {
       "alertId": 2,
+      "alertname": "Alert",
       "emergency": "Emergency",
       "room": "ROOM 2"
     },
     {
       "alertId": 3,
+      "alertname": "Alert",
       "emergency": "Emergency",
       "room": "ROOM 3"
     },
     {
       "alertId": 4,
+      "alertname": "Alert",
       "emergency": "Emergency",
       "room": "ROOM 4"
     },
     {
       "alertId": 5,
+      "alertname": "Alert",
       "emergency": "Emergency",
       "room": "ROOM 5"
     },
     {
       "alertId": 6,
+      "alertname": "Alert",
       "emergency": "Emergency",
       "room": "ROOM 6"
     },
     {
       "alertId": 7,
+      "alertname": "Alert",
       "emergency": "Emergency",
       "room": "ROOM 7"
     },
     {
       "alertId": 8,
+      "alertname": "Alert",
       "emergency": "Emergency",
       "room": "ROOM 8"
     },
     {
       "alertId": 9,
+      "alertname": "Alert",
       "emergency": "Emergency",
       "room": "ROOM 9"
     },
     {
       "alertId": 10,
+      "alertname": "Alert",
       "emergency": "Emergency",
       "room": "ROOM 10"
     }
